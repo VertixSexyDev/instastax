@@ -7,7 +7,11 @@ Foobar is a Python library to check instagram accounts stats
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install INSTASTAX.
 
 ```bash
-pip install instastax
+git pull https://github.com/VertixSexyDev/instastax.git
+cd instastax
+python3 setup.py bdist_wheel
+cd dist
+pip install [the wheel file]
 ```
 
 ## Usage
