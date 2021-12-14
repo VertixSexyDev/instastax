@@ -9,6 +9,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install INSTAST
 ```bash
 git pull https://github.com/VertixSexyDev/instastax.git
 cd instastax
+pip install wheel
 python3 setup.py bdist_wheel
 cd dist
 pip install [the wheel file]
