@@ -1,6 +1,6 @@
 # INSTASTAX
 
-Foobar is a Python library to check instagram accounts stats
+Instastax is a Python library to check instagram accounts stats
 
 ## Installation
 
